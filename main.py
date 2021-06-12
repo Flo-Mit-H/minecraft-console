@@ -41,4 +41,4 @@ async def on_message(message):
                     await message.channel.send(f"```{feedback}```")
 
 
-client.run("ODUzMTk5MzkzNzg0MjAxMjQ2.YMR52w.znjFC0W-mUXm5drOS1W421TW26M")
+client.run(open("token.txt", "r"))

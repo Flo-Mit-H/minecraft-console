@@ -1,2 +1,6 @@
-# minecraft-console
-A Discord Bot wich acts as a Minecraft Console
+# Minecraft Console
+##A Discord Bot wich acts as a Minecraft Console
+
+###Used Libraries:
+### - Discord
+### - MCRcon
