@@ -4,12 +4,4 @@
 
 <hr>
 
-Installation:
-* make sure to have Python installed
-* Download the Code
-* open a Command Line
-* execute ```pip install discord```
-* execute ```pip install mcrcon```
-* create a token.txt file with your Bot Token
-* Configure config.json to the settings that work on your server
-* execute the main.py file
+## This Project is no longer maintained. If you still want to use it, you have to wait until it´s in a new Bot
